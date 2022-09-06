@@ -3,7 +3,7 @@
     <img width="64" height="64" alt="web development resources" src="https://user-images.githubusercontent.com/9361180/86557412-c37c3f00-bf75-11ea-8503-b42bd67646b2.png" />
   </a>
 </p>
-<h1 align="center">Web development resources</h1>
+<h1 align="center">MLSA BSIOTR : Web development resources</h1>
 <p align="center"><i>A list of open source front-end tools and resources for web designers and developers.</i></p>
 <p align="center"><br /></p>
 

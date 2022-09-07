@@ -2,6 +2,8 @@
   <a href="https://github.com/MilanAryal/web-development-resources">
     <img width="64" height="64" alt="web development resources" src="https://user-images.githubusercontent.com/9361180/86557412-c37c3f00-bf75-11ea-8503-b42bd67646b2.png" />
   </a>
+  Join The community Whatsapp group 
+https://chat.whatsapp.com/KNXC40r1oA2FblGJA6kcVb
 </p>
 <h1 align="center">MLSC BSIOTR : Web development resources</h1>
 <p align="center"><i>A list of open source front-end tools and resources for web designers and developers by Resource credits https://github.com/MilanAryal .</i></p>
